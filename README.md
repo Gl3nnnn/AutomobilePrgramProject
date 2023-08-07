@@ -6,7 +6,7 @@ Welcome to the Automobile Program Project repository! This project is a simple a
 
 Check out this short video showcasing the functionalities of the program:
 
-[![Automobile Program Preview](video_thumbnail.png)](automobile program/functions_oop.mp4)
+[![Automobile Program Preview](video_thumbnail.png)](automobile program/functions oop.mp4)
 
 ## Features 🛠️
 
