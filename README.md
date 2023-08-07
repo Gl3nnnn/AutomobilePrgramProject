@@ -6,7 +6,11 @@ Welcome to the Automobile Program Project repository! This project is a simple a
 
 Check out this short video showcasing the functionalities of the program:
 
-[[![Automobile Program Preview]]([automobile program/functions oop.mp4](https://github.com/Gl3nnnn/AutomobilePrgramProject/blob/e331b636ccf729f178b3dda4fafce4c224c5ec35/automobile%20program/functions%20oop.mp4))](https://github.com/Gl3nnnn/AutomobilePrgramProject/blob/e331b636ccf729f178b3dda4fafce4c224c5ec35/automobile%20program/functions%20oop.mp4)
+## Preview
+
+Check out this short video showcasing the functionalities of the program:
+
+[Click here to watch the video](https://github.com/Gl3nnnn/AutomobilePrgramProject/blob/e331b636ccf729f178b3dda4fafce4c224c5ec35/automobile%20program/functions%20oop.mp4)
 
 ## Features 🛠️
 
